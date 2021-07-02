@@ -11,7 +11,7 @@ Hosted app at  **https://obscure-plateau-62692.herokuapp.com/**
 **Nodejs** - Runtime Environment for javascript
 
 ### Frontend
-Frontend has been completely made using pure **HTML**, **Javascript** **Bootstrap** and **CSS**. All the tools functions have been implemented using executeCommand function provided by DOM.
+Frontend has been completely made using pure **HTML**, **Javascript** **Bootstrap** and **CSS**.
 
 # ScreenShot
 ![image](https://user-images.githubusercontent.com/60010884/123842990-feb61180-d92e-11eb-9965-f0b22a867cff.png)
