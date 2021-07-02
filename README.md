@@ -7,8 +7,10 @@ Hosted app at  **https://obscure-plateau-62692.herokuapp.com/**
 ## Tech Stack Used
 
 ### Backend
-**MongoDB** - Document database - to store data as JSON. Used for storing user data and informations about the properties.
-**Nodejs** - Runtime Environment for javascript
+* **MongoDB** - Document database - to store data as JSON. Used for storing user data and informations about the properties.
+* **Nodejs** - Runtime Environment for javascript
+* **Cloudinary**- Place to store all the related images.
+* **Mapbox** - Used to render the maps.
 
 ### Frontend
 Frontend has been completely made using pure **EJS**, **Javascript** **Bootstrap** and **CSS**.
@@ -17,3 +19,10 @@ Frontend has been completely made using pure **EJS**, **Javascript** **Bootstrap
 ![image](https://user-images.githubusercontent.com/60010884/123842990-feb61180-d92e-11eb-9965-f0b22a867cff.png)
 ![image](https://user-images.githubusercontent.com/60010884/123843678-ccf17a80-d92f-11eb-9b59-1563be4308cc.png)
 ![image](https://user-images.githubusercontent.com/60010884/123843756-de3a8700-d92f-11eb-9c0e-f13637ac90f2.png)
+
+# .env
+* CLOUDINARY_CLOUD_NAME
+* CLOUDINARY_KEY
+* CLOUDINARY_SECRET
+* MAPBOX_TOKEN
+* DB_URL
