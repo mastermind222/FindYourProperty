@@ -11,7 +11,7 @@ This WebApp uses MongoDB as a database to store all credentials and data.
 2. **Nodejs** - Runtime Environment for javascript
 3. **ExpressJS** - as a light, unopinionated application framework 
 4. **Passport** - for user authentication strategies
-6. **Cloudinary** - for image hosting
+6. **Cloudinary** - for image hosting 
 7. **Mapbox** - for map rendering
 
 ### Frontend
@@ -40,6 +40,13 @@ npm i
 ![image](https://user-images.githubusercontent.com/60010884/123842990-feb61180-d92e-11eb-9965-f0b22a867cff.png)
 ![image](https://user-images.githubusercontent.com/60010884/123843678-ccf17a80-d92f-11eb-9b59-1563be4308cc.png)
 ![image](https://user-images.githubusercontent.com/60010884/123843756-de3a8700-d92f-11eb-9c0e-f13637ac90f2.png)
+
+# .env
+* CLOUDINARY_CLOUD_NAME
+* CLOUDINARY_KEY
+* CLOUDINARY_SECRET
+* MAPBOX_TOKEN
+* DB_URL
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
