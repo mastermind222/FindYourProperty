@@ -33,7 +33,7 @@ npm i
 ## Usage
 
 ```bash
-# startup instruction here
+# node app.js
 ```
 
 # ScreenShot
